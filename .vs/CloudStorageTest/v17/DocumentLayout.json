@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEABD9E1-63D1-4AB5-8CF1-6C93F20C82DC}|CloudStorageTest.Infrastructure\\CloudStorageTest.Infrastructure.csproj|c:\\users\\leeeo\\onedrive\\documents\\cloudstoragetest\\cloudstoragetest.infrastructure\\storage\\googledrivestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEABD9E1-63D1-4AB5-8CF1-6C93F20C82DC}|CloudStorageTest.Infrastructure\\CloudStorageTest.Infrastructure.csproj|solutionrelative:cloudstoragetest.infrastructure\\storage\\googledrivestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E56C47F-98A0-4307-B3B1-9373C7AD6F28}|CloudStorageTest.Application\\CloudStorageTest.Application.csproj|c:\\users\\leeeo\\onedrive\\documents\\cloudstoragetest\\cloudstoragetest.application\\usecase\\users\\uploadprofilephoto\\uploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E56C47F-98A0-4307-B3B1-9373C7AD6F28}|CloudStorageTest.Application\\CloudStorageTest.Application.csproj|solutionrelative:cloudstoragetest.application\\usecase\\users\\uploadprofilephoto\\uploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F7E2A0-4879-4D4A-902F-D455D193A4EA}|CloudStorageTest.API\\CloudStorageTest.API.csproj|c:\\users\\leeeo\\onedrive\\documents\\cloudstoragetest\\cloudstoragetest.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F7E2A0-4879-4D4A-902F-D455D193A4EA}|CloudStorageTest.API\\CloudStorageTest.API.csproj|solutionrelative:cloudstoragetest.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F7E2A0-4879-4D4A-902F-D455D193A4EA}|CloudStorageTest.API\\CloudStorageTest.API.csproj|c:\\users\\leeeo\\onedrive\\documents\\cloudstoragetest\\cloudstoragetest.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1F7E2A0-4879-4D4A-902F-D455D193A4EA}|CloudStorageTest.API\\CloudStorageTest.API.csproj|solutionrelative:cloudstoragetest.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F7E2A0-4879-4D4A-902F-D455D193A4EA}|CloudStorageTest.API\\CloudStorageTest.API.csproj|c:\\users\\leeeo\\onedrive\\documents\\cloudstoragetest\\cloudstoragetest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F7E2A0-4879-4D4A-902F-D455D193A4EA}|CloudStorageTest.API\\CloudStorageTest.API.csproj|solutionrelative:cloudstoragetest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\CloudStorageTest.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CloudStorageTest.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\CloudStorageTest.API\\appsettings.Development.json",
+              "RelativeToolTip": "CloudStorageTest.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T00:12:36.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleDriveStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "RelativeDocumentMoniker": "CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "ToolTip": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "RelativeToolTip": "CloudStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwDAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T23:06:03.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadProfilePhotoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\CloudStorageTest.Application\\UseCase\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "RelativeDocumentMoniker": "CloudStorageTest.Application\\UseCase\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "ToolTip": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\CloudStorageTest.Application\\UseCase\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "RelativeToolTip": "CloudStorageTest.Application\\UseCase\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T22:43:54.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\CloudStorageTest.API\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "CloudStorageTest.API\\Controllers\\StorageController.cs",
+              "ToolTip": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\CloudStorageTest.API\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "CloudStorageTest.API\\Controllers\\StorageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:44:29.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\CloudStorageTest.API\\Program.cs",
+              "RelativeDocumentMoniker": "CloudStorageTest.API\\Program.cs",
+              "ToolTip": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\CloudStorageTest.API\\Program.cs",
+              "RelativeToolTip": "CloudStorageTest.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:43:36.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

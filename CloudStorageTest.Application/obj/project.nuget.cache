@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RkiFNkDPSZ9JkGoA5OBQNmWSGoHLE+GVfTnWPuUhtQTzDhyLPQp/KsQr/OFf0gteWSzfOIyBuCme0XIWF8KBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leeeo\\OneDrive\\Documents\\CloudStorageTest\\CloudStorageTest.Application\\CloudStorageTest.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leeeo\\.nuget\\packages\\file.typechecker\\4.0.0\\file.typechecker.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
